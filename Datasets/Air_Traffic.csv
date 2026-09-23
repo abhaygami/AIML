@@ -1,0 +1,21 @@
+Days,Season,Fog,Rain,Class
+WeekDay,Spring,None,None,On Time
+WeekDay,Winter,None,Slight,On Time
+WeekDay,Winter,None,None,On Time
+Holiday,Winter,High,Slight,Late
+Saturday,Summer,Normal,None,On Time
+WeekDay,Auntum,Normal,None,Very Late
+Holiday,Summer,High,Slight,On Time
+Sunday,Summer,Normal,None,On Time
+WeekDay,Winter,High,Heavy,Very Late
+WeekDay,Summer,None,Slight,On Time
+Saturday,Spring,High,Heavy,Cancelled
+WeekDay,Summer,High,Slight,On Time
+WeekDay,Winter,Normal,None,Late
+WeekDay,Summer,High,None,On Time
+WeekDay,Winter,Normal,Heavy,Very Late
+Saturday,Auntum,High,Slight,On Time
+WeekDay,Auntum,None,Heavy,On Time
+Holiday,Spring,Normal,Slight,On Time
+WeekDay,Spring,Normal,None,On Time
+WeekDay,Spring,Normal,Heavy,On Time
